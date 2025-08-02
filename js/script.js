@@ -1,5 +1,5 @@
 // Menampilkan nama pengguna di halaman
-const name = ("Arinda:");
+const name = ("Arinda");
 if (name) {
   document.getElementById("userName").innerText = name;
 }
